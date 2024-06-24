@@ -1,1 +1,3 @@
- louislam/dockge:1
+louislam/dockge:1
+nyanmisaka/jellyfin
+linuxserver/jackett
